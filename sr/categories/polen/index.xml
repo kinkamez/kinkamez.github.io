@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>polen on Pčelarstvo Kinka</title>
+    <link>https://kinkamez.github.io/sr/categories/polen/</link>
+    <description>Recent content in polen on Pčelarstvo Kinka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Apr 2019 22:12:51 -0600</lastBuildDate>
+    
+	<atom:link href="https://kinkamez.github.io/sr/categories/polen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Med sa polenom 500g</title>
+      <link>https://kinkamez.github.io/sr/posts/poros/</link>
+      <pubDate>Mon, 01 Apr 2019 22:12:51 -0600</pubDate>
+      
+      <guid>https://kinkamez.github.io/sr/posts/poros/</guid>
+      <description>Sastav: livadski ili suncokretov med i polen sa raznih biljaka sa livada
+Vitamini i minerali: B1, B2, B3, B5, B6, C-vitamin Kalcijum, Bakar, Gvožđe, Magnezijum, Mangan, Zink, Fosfor, Kalijum, Natrijum
+   Energeska vrednost: na 100g     Ugljenihidrati 82,4g   Masti 0g   Proteini 0,3g   Energija 304 kcal    Cena: 600 RSD </description>
+    </item>
+    
+    <item>
+      <title>Polen 100g</title>
+      <link>https://kinkamez.github.io/sr/posts/polen/</link>
+      <pubDate>Mon, 01 Apr 2019 22:12:51 -0600</pubDate>
+      
+      <guid>https://kinkamez.github.io/sr/posts/polen/</guid>
+      <description>Polen sa raznih biljaka sa livada.
+Cena: 250 RSD </description>
+    </item>
+    
+  </channel>
+</rss>
