@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pčelarstvo Kinka</title>
-    <link>https://kinkamez.github.io/sr/tags/</link>
+    <link>https://pcelarstvo-kinka.info/sr/tags/</link>
     <description>Recent content in Tags on Pčelarstvo Kinka</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://kinkamez.github.io/sr/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pcelarstvo-kinka.info/sr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
