@@ -5,10 +5,21 @@
     <link>https://pcelarstvo-kinka.info/sr/</link>
     <description>Recent content on Pčelarstvo Kinka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Apr 2019 22:12:51 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2020 13:51:48 +0200</lastBuildDate>
     
 	<atom:link href="https://pcelarstvo-kinka.info/sr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Error 404</title>
+      <link>https://pcelarstvo-kinka.info/sr/404/</link>
+      <pubDate>Fri, 17 Apr 2020 13:51:48 +0200</pubDate>
+      
+      <guid>https://pcelarstvo-kinka.info/sr/404/</guid>
+      <description>Sorry, the page was not found. The page you are looking for doesn’t exists.
+Please check your URL address.
+[Go Back]</description>
+    </item>
     
     <item>
       <title>Imuno 500g</title>
