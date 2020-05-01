@@ -5,9 +5,23 @@
     <link>https://pcelarstvo-kinka.info/sr/gallery/</link>
     <description>Recent content in Galleries on Pčelarstvo Kinka</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Apr 2020 22:27:36 +0200</lastBuildDate>
     
 	<atom:link href="https://pcelarstvo-kinka.info/sr/gallery/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>teszt</title>
+      <link>https://pcelarstvo-kinka.info/sr/gallery/gallery1/</link>
+      <pubDate>Mon, 27 Apr 2020 22:27:36 +0200</pubDate>
+      
+      <guid>https://pcelarstvo-kinka.info/sr/gallery/gallery1/</guid>
+      <description>1st
+      2nd
+      3rd
+      4th
+     `</description>
+    </item>
     
   </channel>
 </rss>
