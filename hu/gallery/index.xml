@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Kinka méhészet</title>
+    <link>https://pcelarstvo-kinka.info/hu/gallery/</link>
+    <description>Recent content in Galleries on Kinka méhészet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Apr 2020 22:27:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://pcelarstvo-kinka.info/hu/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anyanevelés</title>
+      <link>https://pcelarstvo-kinka.info/hu/gallery/gallery10/</link>
+      <pubDate>Mon, 27 Apr 2020 22:27:36 +0200</pubDate>
+      
+      <guid>https://pcelarstvo-kinka.info/hu/gallery/gallery10/</guid>
+      <description>1st
+      2nd
+      3rd
+      4th
+      5th
+      6th
+     `</description>
+    </item>
+    
+  </channel>
+</rss>
