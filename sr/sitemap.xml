@@ -3,6 +3,106 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pcelarstvo-kinka.info/sr/categories/500g/</loc>
+    <lastmod>2020-05-17T22:59:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://pcelarstvo-kinka.info/hu/categories/500g/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sr"
+                href="https://pcelarstvo-kinka.info/sr/categories/500g/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pcelarstvo-kinka.info/sr/categories/950g/</loc>
+    <lastmod>2020-05-17T22:59:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://pcelarstvo-kinka.info/hu/categories/950g/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sr"
+                href="https://pcelarstvo-kinka.info/sr/categories/950g/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pcelarstvo-kinka.info/sr/categories/</loc>
+    <lastmod>2020-05-17T22:59:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://pcelarstvo-kinka.info/hu/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sr"
+                href="https://pcelarstvo-kinka.info/sr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pcelarstvo-kinka.info/sr/categories/med/</loc>
+    <lastmod>2020-05-17T22:59:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pcelarstvo-kinka.info/sr/posts/repcekicsi/</loc>
+    <lastmod>2020-05-17T22:59:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://pcelarstvo-kinka.info/hu/posts/repcekicsi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sr"
+                href="https://pcelarstvo-kinka.info/sr/posts/repcekicsi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pcelarstvo-kinka.info/sr/posts/repce/</loc>
+    <lastmod>2020-05-17T22:59:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://pcelarstvo-kinka.info/hu/posts/repce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sr"
+                href="https://pcelarstvo-kinka.info/sr/posts/repce/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pcelarstvo-kinka.info/sr/</loc>
+    <lastmod>2020-05-17T22:59:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://pcelarstvo-kinka.info/hu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sr"
+                href="https://pcelarstvo-kinka.info/sr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pcelarstvo-kinka.info/sr/categories/uljana-repica/</loc>
+    <lastmod>2020-05-17T22:59:23+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pcelarstvo-kinka.info/sr/gallery/</loc>
     <lastmod>2020-04-27T22:27:36+02:00</lastmod>
     <xhtml:link
@@ -43,51 +143,6 @@
   </url>
   
   <url>
-    <loc>https://pcelarstvo-kinka.info/sr/</loc>
-    <lastmod>2020-04-17T13:51:48+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="https://pcelarstvo-kinka.info/hu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sr"
-                href="https://pcelarstvo-kinka.info/sr/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://pcelarstvo-kinka.info/sr/categories/500g/</loc>
-    <lastmod>2020-04-09T13:09:16+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="https://pcelarstvo-kinka.info/hu/categories/500g/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sr"
-                href="https://pcelarstvo-kinka.info/sr/categories/500g/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://pcelarstvo-kinka.info/sr/categories/</loc>
-    <lastmod>2020-04-09T13:09:16+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="https://pcelarstvo-kinka.info/hu/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sr"
-                href="https://pcelarstvo-kinka.info/sr/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://pcelarstvo-kinka.info/sr/categories/imuno/</loc>
     <lastmod>2020-04-09T13:09:16+02:00</lastmod>
   </url>
@@ -105,11 +160,6 @@
                 hreflang="sr"
                 href="https://pcelarstvo-kinka.info/sr/posts/imuno/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://pcelarstvo-kinka.info/sr/categories/med/</loc>
-    <lastmod>2020-04-09T13:09:16+02:00</lastmod>
   </url>
   
   <url>
@@ -184,21 +234,6 @@
                 rel="alternate"
                 hreflang="sr"
                 href="https://pcelarstvo-kinka.info/sr/categories/250g/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://pcelarstvo-kinka.info/sr/categories/950g/</loc>
-    <lastmod>2019-04-01T22:12:51-06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="https://pcelarstvo-kinka.info/hu/categories/950g/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sr"
-                href="https://pcelarstvo-kinka.info/sr/categories/950g/"
                 />
   </url>
   
