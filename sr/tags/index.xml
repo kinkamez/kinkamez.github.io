@@ -4,10 +4,6 @@
     <title>Tags on Pčelarstvo Kinka</title>
     <link>https://pcelarstvo-kinka.info/sr/tags/</link>
     <description>Recent content in Tags on Pčelarstvo Kinka</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://pcelarstvo-kinka.info/sr/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://pcelarstvo-kinka.info/sr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
